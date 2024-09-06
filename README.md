@@ -1,1 +1,1 @@
-# CentromacBlogDjango
+# Centromac Blog Django
